@@ -3,7 +3,7 @@
 <a href="https://arxiv.org/abs/2502.12970">
 <img src="https://img.shields.io/badge/arXiv-2502.12970-red.svg">
 </a>
-<a href="https://huggingface.co/chuhac/R2D-R1">
+<a href="https://huggingface.co/datasets/chuhac/R2D-R1">
   <img src="https://img.shields.io/badge/HF-dataset-blue.svg">
 </a>
 <a href="https://opensource.org/licenses/MIT">

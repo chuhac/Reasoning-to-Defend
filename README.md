@@ -22,9 +22,10 @@ which is aimed at improving the safety of LLMs via safety-aware reasoning.
 ![overview](assets/overview.png)
 
 ## News:
-* Aug 20, 2025: R2D is accepted by EMNLP 2025 Main Conference.
-* Mar 9, 2025: Code for R2D has been released. The dataset is currently being organized.
-* Feb 18, 2025: R2D is publicly available at [arxiv](https://arxiv.org/abs/2502.12970).
+* Aug 20th, 2025: R2D is accepted by EMNLP 2025 Main Conference.
+* May 31st, 2025: Dataset released, and is available at [huggingface](https://huggingface.co/datasets/chuhac/R2D-R1).
+* Mar 9th, 2025: Code for R2D has been released. The dataset is currently being organized.
+* Feb 18th, 2025: R2D's paper is publicly available at [arxiv](https://arxiv.org/abs/2502.12970).
 
 
 ## Usage
